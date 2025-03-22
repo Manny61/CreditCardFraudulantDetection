@@ -27,7 +27,8 @@ This project demonstrates a machine learning approach to detect fraudulent credi
    git clone https://github.com/Manny61/Credit-Card-Fraud-Detection.git
    ```
 2. Navigate to the project directory:
-   ```bash   cd Credit-Card-Fraud-Detection
+   ```bash
+   cd Credit-Card-Fraud-Detection
    ```
 3. Install the required packages:
    ```bash
